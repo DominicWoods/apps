@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Karamba To Do",
-    "imagePath": "https://raw.githubusercontent.com/DominicWoods/apps/master/do-it-task-manager.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/DominicWoods/apps/master/Karamba.jpg",
+    "linkPath": "https://www.karamba.com/?afi=22348&NeoDL=Registration&ar=a_2195",
+    "linkAction": "#web",
     "afid": "ncRP7CYLEDkRWE24q7ptKM"
   }
 }
